@@ -35,3 +35,8 @@ const myFunction = function(){
 
 //to check the datatype use:
 console.log(typeof number);
+
+//*****************************************
+
+//stack (Primitive) and heap (Non-primitive) memory
+
